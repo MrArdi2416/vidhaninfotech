@@ -1,0 +1,120 @@
+{
+  "users": [
+    {
+      "firstName": "diljit dohsanj",
+      "lastName": "dsadadsadsa",
+      "email": "sdea@gansfs.com",
+      "password": "dsadsadas",
+      "phone": "9898989989",
+      "gender": "female",
+      "languages": [
+        "Spanish",
+        "German"
+      ],
+      "address": "dsdsadas",
+      "id": "63e5"
+    },
+    {
+      "id": "a944",
+      "firstName": "Dieter",
+      "lastName": "Knox",
+      "email": "kivoqixem@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "phone": "+1 (913) 882-5259",
+      "gender": "male",
+      "languages": [
+        "German",
+        "Mandarin"
+      ],
+      "address": "Earum deserunt est r"
+    },
+    {
+      "id": "d8b5",
+      "firstName": "Blaze",
+      "lastName": "Chambers",
+      "email": "give@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "phone": "+1 (966) 758-4646",
+      "gender": "male",
+      "languages": [
+        "French",
+        "Mandarin"
+      ],
+      "address": "Rerum voluptate cons"
+    },
+    {
+      "firstName": "Avye",
+      "lastName": "Languuu",
+      "email": "hutevyfehy@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "phone": "+1 (586) 149-5577",
+      "gender": "male",
+      "languages": [
+        "English",
+        "Spanish",
+        "German"
+      ],
+      "address": "Sed assumenda minim ",
+      "id": "b395"
+    },
+    {
+      "id": "7e13",
+      "firstName": "Myra",
+      "lastName": "Mack",
+      "email": "tuqyciga@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "phone": "+1 (547) 497-3303",
+      "gender": "male",
+      "languages": [
+        "Spanish",
+        "German",
+        "Mandarin"
+      ],
+      "address": "Maxime possimus duc"
+    },
+    {
+      "id": "cbdc",
+      "firstName": "Demetrius",
+      "lastName": "Mendoza",
+      "email": "xore@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "phone": "+1 (521) 509-8737",
+      "gender": "male",
+      "languages": [
+        "French",
+        "German"
+      ],
+      "address": "Atque commodi aliqua"
+    },
+    {
+      "id": "50a9",
+      "firstName": "Giacomo",
+      "lastName": "Ballard",
+      "email": "tosysoduce@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "phone": "+1 (788) 774-6712",
+      "gender": "male",
+      "languages": [
+        "English",
+        "Spanish",
+        "German",
+        "Mandarin"
+      ],
+      "address": "Veritatis praesentiu"
+    },
+    {
+      "id": "f9a8",
+      "firstName": "Dominic",
+      "lastName": "Simon",
+      "email": "diqedix@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "phone": "+1 (702) 154-6421",
+      "gender": "male",
+      "languages": [
+        "Spanish",
+        "French"
+      ],
+      "address": "Eveniet quia aut al"
+    }
+  ]
+}
