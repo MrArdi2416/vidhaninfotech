@@ -15,9 +15,13 @@ const Login: React.FC = () => {
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
 
+
+
     try {
       const response = await axios.get("http://localhost:5000/users");
       const users = response.data;
+
+      
       const user = users.find(
         (user: { email: string; password: string }) =>
           user.email === email && user.password === password
